@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "1MEE.aternos.me:55101",
+    "ip": "1MEE.aternos.me:",
     "port": 55101,
     "version": "1.21.1",
     "try-creative": false
