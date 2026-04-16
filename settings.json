@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "00010",
-    "type": "online"
+    "type": "cracked"
   },
   "server": {
-    "ip": "1MEE.aternos.me:",
+    "ip": "1MEE.aternos.me",
     "port": 55101,
     "version": "1.21.1",
     "try-creative": false
