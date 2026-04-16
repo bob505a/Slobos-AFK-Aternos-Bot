@@ -8,7 +8,7 @@
   "server": {
     "ip": "1MEE.aternos.me:55101",
     "port": 55101,
-    "version": "26.1.2",
+    "version": "npm install mineflayer@latest",
     "try-creative": false
   },
   "position": {
