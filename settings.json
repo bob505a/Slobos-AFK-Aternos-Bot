@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "00010",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "1MEE.aternos.me:55101",
